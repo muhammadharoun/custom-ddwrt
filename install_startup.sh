@@ -1,7 +1,7 @@
 #!/bin/sh
 # DD-WRT Startup Installer
 # عدّل السطر التالي إلى رابط Raw base الخاص بمستودع GitHub عندك
-RAW_BASE="YOUR_RAW_BASE"
+RAW_BASE="https://raw.githubusercontent.com/muhammadharoun/custom-ddwrt/main"
 
 mkdir -p /tmp/www
 
